@@ -7,7 +7,6 @@ A simple calculator built with **HTML**, **CSS**, and **JavaScript** as part of 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
 - Clear (`AC`) button to reset input
 - Responsive design
-- Keyboard support (optional if implemented)
 - Clean UI inspired by modern calculator apps
 
 ## 📸 Preview
