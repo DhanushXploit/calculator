@@ -12,7 +12,7 @@ A simple calculator built with **HTML**, **CSS**, and **JavaScript** as part of 
 ## 📸 Preview
 
 ![MyCalci Screenshot](assets/calci.png)  
-*(Include a real screenshot of your calculator UI in the repo)*
+
 
 ## 🛠️ Tech Stack
 
